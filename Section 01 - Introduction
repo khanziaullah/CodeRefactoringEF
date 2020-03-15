@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-15T13:12:34.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ibQESaY-VZW222_RD-hq" version="12.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-15T13:13:44.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="rdwfVOXy50YvMHsBsrx_" version="12.8.5" type="github" pages="7">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
     <mxGraphModel dx="1022" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -290,7 +290,7 @@
         <mxCell id="jTl4WZNH_WRne-yDCwHW-0" />
         <mxCell id="jTl4WZNH_WRne-yDCwHW-1" parent="jTl4WZNH_WRne-yDCwHW-0" />
         <mxCell id="iwLl1TuDi5Os1LddF8I2-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
-          <mxGeometry x="471" y="90" width="580" height="360" as="geometry" />
+          <mxGeometry x="471" y="90" width="569" height="360" as="geometry" />
         </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
           <mxGeometry x="70" y="90" width="370" height="360" as="geometry" />
