@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-15T12:45:51.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="4AeSoL9t-KlpkIQMZINX" version="12.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-15T12:46:48.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="zJ73G3xMXzq4GT55TVoN" version="12.8.5" type="github" pages="7">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
     <mxGraphModel dx="1022" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -292,35 +292,50 @@
         <mxCell id="jTl4WZNH_WRne-yDCwHW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
           <mxGeometry x="70" y="90" width="370" height="360" as="geometry" />
         </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;" edge="1" parent="jTl4WZNH_WRne-yDCwHW-1" source="jTl4WZNH_WRne-yDCwHW-3" target="jTl4WZNH_WRne-yDCwHW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-3" value="Single Responsibility Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
           <mxGeometry x="90" y="110" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;" edge="1" parent="jTl4WZNH_WRne-yDCwHW-1" source="jTl4WZNH_WRne-yDCwHW-4" target="jTl4WZNH_WRne-yDCwHW-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-4" value="Open-Closed Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
           <mxGeometry x="90" y="180" width="330" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;" edge="1" parent="jTl4WZNH_WRne-yDCwHW-1" source="jTl4WZNH_WRne-yDCwHW-7" target="jTl4WZNH_WRne-yDCwHW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-7" value="Liskov-Substitution Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
           <mxGeometry x="90" y="250" width="330" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=20;" edge="1" parent="jTl4WZNH_WRne-yDCwHW-1" source="jTl4WZNH_WRne-yDCwHW-8" target="jTl4WZNH_WRne-yDCwHW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-8" value="Interface Segregation Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
           <mxGeometry x="90" y="320" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=20;" edge="1" parent="jTl4WZNH_WRne-yDCwHW-1" source="jTl4WZNH_WRne-yDCwHW-9" target="jTl4WZNH_WRne-yDCwHW-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-9" value="Dependency Inversion Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
           <mxGeometry x="90" y="390" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-10" value="One Class One Responsibility" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
-          <mxGeometry x="460" y="110" width="450" height="40" as="geometry" />
+          <mxGeometry x="470" y="110" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-11" value="Open for extension; closed for modification" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
-          <mxGeometry x="460" y="180" width="450" height="40" as="geometry" />
+          <mxGeometry x="470" y="180" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-12" value="Types of the same parent are interchangable" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
-          <mxGeometry x="460" y="250" width="450" height="40" as="geometry" />
+          <mxGeometry x="470" y="250" width="530" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jTl4WZNH_WRne-yDCwHW-13" value="Separate interface for logically disconnection functionality" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
-          <mxGeometry x="460" y="320" width="450" height="40" as="geometry" />
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-13" value="Separate interfaces for logically disconnection functionality" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
+          <mxGeometry x="470" y="320" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-14" value="Programming against abstract class/interface" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
-          <mxGeometry x="460" y="390" width="450" height="40" as="geometry" />
+          <mxGeometry x="470" y="390" width="530" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
