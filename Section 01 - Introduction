@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-03-15T04:57:52.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="TkNoSF6cP1j86ORi4Euo" version="12.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-03-15T05:13:40.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="N_qfdW7thYetNmZESFte" version="12.8.5" type="github" pages="3">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="Refactoring">
-    <mxGraphModel dx="677" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dQ1thJ8zxfnfyZACUqCi-1" value="What and Why of Refactoring?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="dQ1thJ8zxfnfyZACUqCi-1" value="What is Refactoring?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="170" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ1thJ8zxfnfyZACUqCi-2" value="How to do Refactoring?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="dQ1thJ8zxfnfyZACUqCi-2" value="Why Refactoring?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="270" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dQ1thJ8zxfnfyZACUqCi-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=17;strokeWidth=2;size=0.3;" parent="1" vertex="1">
@@ -20,7 +20,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ttFxO_5LLgR6PSiom_rZ" name="SDLC">
-    <mxGraphModel dx="981" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="wpiVt2-S0cAlykSpFpWs-0" />
         <mxCell id="wpiVt2-S0cAlykSpFpWs-1" parent="wpiVt2-S0cAlykSpFpWs-0" />
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C516JmkQc71CKXMqYnkj" name="Solution">
-    <mxGraphModel dx="677" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fOOqk0U-ei3r_a0Llc8c-0" />
         <mxCell id="fOOqk0U-ei3r_a0Llc8c-1" parent="fOOqk0U-ei3r_a0Llc8c-0" />
