@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2020-03-15T04:28:00.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="HLTQumMfytb9OVEmhxRq" version="12.8.5" type="github"><diagram id="TnEYCNMU13n9bYBySpxF" name="Page-1">5VVdb5swFP01PG4CO03IY8PaVZP2sEVTpL25+IKtGpsZM0h//exgAgSirVKnPvTF8j3Xn+ecawc4KdrPmpTsq6IgAhTSNsCfAoQ2661tHXDsAIyiDsg1px00Avb8GTwYerTmFKrJQKOUMLycgqmSElIzwYjWqpkOy5SY7lqSHGbAPiVijh44NaxD45twwB+A56zfOQp9piD9YA9UjFDVjCB8F+BEK2W6XtEmIBx3PS/dvPsr2fPBNEjzLxPot8iwL/Fzm8ns+PM2+fEr4R/8Kr+JqP2FD4wYx52ktj2wo21VZpvvkJHUKM1lHuB7fyVz7HnSqpYU3FZhgHcN4wb2JUldtrHGsBgzhbBRZLuZksZLHW1czIVIlFD6tBamBOIstXhltHqCUWadxvCY2Yw/NmgD7VU+ojPL1p2gCjDaXcdPWMVeGO/MaOPjZtA52nqMjTTu5xFvrfy89MC+7XgBXiAGmonxYA3jDO8KSL0HEdCbi4BnIsxotpVcum5aa3HcaZI+gfk734M4S+x3LPdPDHJIlw0/4leiGl/4PZ5TvVpgOlr/L6pX1x4fw3h1etNrXYFbxUXkUdVmyfWWEjOlempZqSRc+NtDRPBcOiEthWDxnSOY28f/1icKTqnbZlHbabXNysnF/pDoFeRD24tKuVmolCX90Mvls+HwL51yo88d3/0B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-15T04:29:43.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="SWuLi7R2qxML4GjZ0Aw0" version="12.8.5" type="github" pages="2">
+  <diagram id="TnEYCNMU13n9bYBySpxF" name="Refactoring">
+    <mxGraphModel dx="677" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dQ1thJ8zxfnfyZACUqCi-1" value="What and Why of Refactoring?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="480" y="170" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ1thJ8zxfnfyZACUqCi-2" value="How to do Refactoring?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="480" y="270" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ1thJ8zxfnfyZACUqCi-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=17;strokeWidth=2;size=0.3;" parent="1" vertex="1">
+          <mxGeometry x="430" y="180" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ1thJ8zxfnfyZACUqCi-4" value="What this course is about?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="290" y="250" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ttFxO_5LLgR6PSiom_rZ" name="SDLC">
+    <mxGraphModel dx="769" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-0" />
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-1" parent="wpiVt2-S0cAlykSpFpWs-0" />
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-2" value="Gathering Requirements" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+          <mxGeometry x="265" y="120" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-3" value="Analysis of software" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+          <mxGeometry x="265" y="170" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-4" value="Designing software" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+          <mxGeometry x="265" y="220" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-5" value="Testing and Integration" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+          <mxGeometry x="265" y="320" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;" edge="1" parent="wpiVt2-S0cAlykSpFpWs-1" source="wpiVt2-S0cAlykSpFpWs-7" target="wpiVt2-S0cAlykSpFpWs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-7" value="Maintenance" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+          <mxGeometry x="265" y="370" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-8" value="Refactoring helps &lt;br style=&quot;font-size: 16px;&quot;&gt;solve most of&lt;br style=&quot;font-size: 16px;&quot;&gt;these issues" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+          <mxGeometry x="600" y="120" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-9" value="Development of Software" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+          <mxGeometry x="265" y="270" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-10" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" edge="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.99999999999977" y="120" as="sourcePoint" />
+            <mxPoint x="239.99999999999977" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpiVt2-S0cAlykSpFpWs-11" value="Software Development Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=2;fontSize=19;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+          <mxGeometry x="60" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
