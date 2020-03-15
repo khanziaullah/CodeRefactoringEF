@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-15T13:10:35.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="2Lu-jVw4QJ3umOrPjgqm" version="12.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-15T13:12:34.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ibQESaY-VZW222_RD-hq" version="12.8.5" type="github" pages="7">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
     <mxGraphModel dx="1022" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -331,7 +331,7 @@
         <mxCell id="jTl4WZNH_WRne-yDCwHW-11" value="Open for extension; closed for modification" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
           <mxGeometry x="491" y="180" width="530" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jTl4WZNH_WRne-yDCwHW-12" value="Types of the same parent are interchangable" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-12" value="Types of the same parent are inter-changeable" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
           <mxGeometry x="491" y="250" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jTl4WZNH_WRne-yDCwHW-13" value="Separate interfaces for logically disconnection functionality" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
