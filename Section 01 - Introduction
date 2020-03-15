@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-15T04:38:16.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="3_KHmWIedrftkrbwGfvF" version="12.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-15T04:40:38.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="1-CGUI0Rqap7Vkb8mezJ" version="12.8.5" type="github" pages="3">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="Refactoring">
     <mxGraphModel dx="981" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GCF4N0uhdYL-4KhG9VW5-5" value="Maintenance" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+        <mxCell id="GCF4N0uhdYL-4KhG9VW5-5" value="Maintenance" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
           <mxGeometry x="265" y="370" width="265" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GCF4N0uhdYL-4KhG9VW5-6" value="Refactoring helps &lt;br style=&quot;font-size: 16px;&quot;&gt;solve most of&lt;br style=&quot;font-size: 16px;&quot;&gt;these issues" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
@@ -61,8 +61,25 @@
             <mxPoint x="240" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GCF4N0uhdYL-4KhG9VW5-9" value="Software Development Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=2;fontSize=19;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+        <mxCell id="GCF4N0uhdYL-4KhG9VW5-9" value="Software Development Life-Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=2;fontSize=19;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
           <mxGeometry x="60" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="C516JmkQc71CKXMqYnkj" name="Solution">
+    <mxGraphModel dx="981" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="fOOqk0U-ei3r_a0Llc8c-0" />
+        <mxCell id="fOOqk0U-ei3r_a0Llc8c-1" parent="fOOqk0U-ei3r_a0Llc8c-0" />
+        <mxCell id="fOOqk0U-ei3r_a0Llc8c-2" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Tools and techniques applied to &lt;br&gt;make applications flexible, &lt;br&gt;extensible and easier to maintain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fOOqk0U-ei3r_a0Llc8c-1">
+          <mxGeometry x="400" y="130" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fOOqk0U-ei3r_a0Llc8c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;" edge="1" parent="fOOqk0U-ei3r_a0Llc8c-1" source="fOOqk0U-ei3r_a0Llc8c-4" target="fOOqk0U-ei3r_a0Llc8c-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOOqk0U-ei3r_a0Llc8c-4" value="&lt;b&gt;Refactoring?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="fOOqk0U-ei3r_a0Llc8c-1">
+          <mxGeometry x="180" y="130" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
