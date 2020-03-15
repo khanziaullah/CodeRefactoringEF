@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-15T04:40:38.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="1-CGUI0Rqap7Vkb8mezJ" version="12.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-03-15T04:56:51.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="jnd1Dykth34ASrP4sHA7" version="12.8.5" type="github" pages="3">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="Refactoring">
     <mxGraphModel dx="981" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="GCF4N0uhdYL-4KhG9VW5-5" value="Maintenance" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
           <mxGeometry x="265" y="370" width="265" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GCF4N0uhdYL-4KhG9VW5-6" value="Refactoring helps &lt;br style=&quot;font-size: 16px;&quot;&gt;solve most of&lt;br style=&quot;font-size: 16px;&quot;&gt;these issues" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
+        <mxCell id="GCF4N0uhdYL-4KhG9VW5-6" value="Correct coding practices will help in each stages" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
           <mxGeometry x="600" y="120" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GCF4N0uhdYL-4KhG9VW5-7" value="Development of Software" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="wpiVt2-S0cAlykSpFpWs-1">
