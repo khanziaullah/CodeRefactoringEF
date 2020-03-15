@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-15T12:40:15.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="aJCyT4JFq0dEbL8cXaom" version="12.8.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-03-15T12:43:44.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="K3aVeTZCZ6Mu9cJlIIh2" version="12.8.5" type="github" pages="7">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
     <mxGraphModel dx="1022" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -268,11 +268,11 @@
     
   </diagram>
   <diagram id="siNl5IqR9zd9telvRP9q" name="06 - Hello World">
-    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="705" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fEUEsC74eXNoAm5D0CCf-0" />
         <mxCell id="fEUEsC74eXNoAm5D0CCf-1" parent="fEUEsC74eXNoAm5D0CCf-0" />
-        <mxCell id="fEUEsC74eXNoAm5D0CCf-2" value="Console Output" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="fEUEsC74eXNoAm5D0CCf-1">
+        <mxCell id="fEUEsC74eXNoAm5D0CCf-2" value="Facebook" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="fEUEsC74eXNoAm5D0CCf-1">
           <mxGeometry x="450" y="140" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fEUEsC74eXNoAm5D0CCf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;" edge="1" parent="fEUEsC74eXNoAm5D0CCf-1" source="fEUEsC74eXNoAm5D0CCf-3" target="fEUEsC74eXNoAm5D0CCf-2">
@@ -280,6 +280,32 @@
         </mxCell>
         <mxCell id="fEUEsC74eXNoAm5D0CCf-3" value="&quot;Hello, World&quot;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="fEUEsC74eXNoAm5D0CCf-1">
           <mxGeometry x="150" y="140" width="220" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WMRXP5evMXrylZ35rDGP" name="07 - SOLID Principles">
+    <mxGraphModel dx="782" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-0" />
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-1" parent="jTl4WZNH_WRne-yDCwHW-0" />
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
+          <mxGeometry x="70" y="90" width="370" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-3" value="Single Responsibility Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
+          <mxGeometry x="90" y="110" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-4" value="Open-Closed Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
+          <mxGeometry x="90" y="180" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-7" value="Liskov-Substitution Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
+          <mxGeometry x="90" y="250" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-8" value="Interface Segregation Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
+          <mxGeometry x="90" y="320" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jTl4WZNH_WRne-yDCwHW-9" value="Dependency Inversion Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="jTl4WZNH_WRne-yDCwHW-1">
+          <mxGeometry x="90" y="390" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
