@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T16:17:21.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="2eFaOUfDWwADzyeJQCVz" version="12.8.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-26T15:59:18.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="3JTUy4n0MGMrsposaHu4" version="12.9.2" type="github" pages="7">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
-    <mxGraphModel dx="994" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,7 +268,7 @@
     
   </diagram>
   <diagram id="ti6txEGlBiGZY7-gX3T4" name="06 - Hello World">
-    <mxGraphModel dx="686" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="851" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4oBfSywJhNF67413TUUV-0" />
         <mxCell id="4oBfSywJhNF67413TUUV-1" parent="4oBfSywJhNF67413TUUV-0" />
@@ -285,126 +285,65 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OxMk6VcFgAxRD-2qr7we" name="07 - SOLID">
-    
-    <mxGraphModel dx="994" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      
+    <mxGraphModel dx="1234" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-0" />
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-1" parent="I83IcRD5qp0pckX-OGSy-0" />
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="471" y="90" width="569" height="360" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="70" y="90" width="370" height="360" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" source="I83IcRD5qp0pckX-OGSy-5" target="I83IcRD5qp0pckX-OGSy-14" edge="1">
-          
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-5" value="Single Responsibility Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="90" y="110" width="330" height="40" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" source="I83IcRD5qp0pckX-OGSy-7" target="I83IcRD5qp0pckX-OGSy-15" edge="1">
-          
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-7" value="Open-Closed Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="90" y="180" width="330" height="40" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" source="I83IcRD5qp0pckX-OGSy-9" target="I83IcRD5qp0pckX-OGSy-16" edge="1">
-          
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-9" value="Liskov-Substitution Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="90" y="250" width="330" height="40" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" source="I83IcRD5qp0pckX-OGSy-11" target="I83IcRD5qp0pckX-OGSy-17" edge="1">
-          
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-11" value="Interface Segregation Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="90" y="320" width="330" height="40" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" source="I83IcRD5qp0pckX-OGSy-13" target="I83IcRD5qp0pckX-OGSy-18" edge="1">
-          
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-13" value="Dependency Inversion Principle" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="90" y="390" width="330" height="40" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-14" value="One Class One Responsibility" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="491" y="110" width="530" height="40" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-15" value="Open for extension; closed for modification" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="491" y="180" width="530" height="40" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-16" value="Types derived from same parent are inter-changeable" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="491" y="250" width="530" height="40" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-17" value="Separate interfaces for separate functionality" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="491" y="320" width="530" height="40" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="I83IcRD5qp0pckX-OGSy-18" value="Programming against abstract class/interface" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
+        <mxCell id="I83IcRD5qp0pckX-OGSy-18" value="Depend on abstraction; not on concretion" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
           <mxGeometry x="491" y="390" width="530" height="40" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I83IcRD5qp0pckX-OGSy-19" value="SOLID Principles" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" parent="I83IcRD5qp0pckX-OGSy-1" vertex="1">
-          
           <mxGeometry x="70" y="50" width="370" height="20" as="geometry" />
-          
         </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
 </mxfile>
