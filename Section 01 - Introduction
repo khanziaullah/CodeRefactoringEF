@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T09:22:11.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="NkjYg2Nty5PpzFUrR4bk" version="12.9.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-03-31T09:56:08.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="MdjoGUO1V3XZeSsWGmas" version="12.9.3" type="github" pages="12">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
     <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
         <mxCell id="u_EZ_WS-s7YLprBsiAdB-0" value="Dependency" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
           <mxGeometry x="150" y="80" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OTqqZzAU2VN6Ek2hRDgr-0" value="A dependency is an object(s) (primitive type or derived type) that is/are required for the creation of other objects." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
+        <mxCell id="OTqqZzAU2VN6Ek2hRDgr-0" value="A dependency is an object(s) (primitive type or derived type) that is/are required for the creation and functioning of other objects." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
           <mxGeometry x="310" y="80" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HSAq-FKdR0hWzB_X1jQD-0" value="IoC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
