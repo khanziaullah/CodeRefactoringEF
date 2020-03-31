@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T05:53:24.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="CgVo2CmhNk1NAdqMhs7X" version="12.9.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-03-31T07:45:11.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="PpJPo-EZeSIIxl_bB8Hv" version="12.9.3" type="github" pages="11">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
-    <mxGraphModel dx="1022" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ttFxO_5LLgR6PSiom_rZ" name="02 - SDLC">
-    <mxGraphModel dx="1022" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="wpiVt2-S0cAlykSpFpWs-0" />
         <mxCell id="wpiVt2-S0cAlykSpFpWs-1" parent="wpiVt2-S0cAlykSpFpWs-0" />
@@ -230,7 +230,7 @@
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-0" />
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-1" parent="Gm5vKIdBbdJ2trnB38Ta-0" />
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-front-02-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="100" y="30" width="270" height="270" as="geometry" />
+          <mxGeometry x="110" y="80" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/solid-locations-icon-set/64/Tyres_2-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
           <mxGeometry x="420" y="80" width="128" height="128" as="geometry" />
@@ -248,36 +248,121 @@
           <mxGeometry x="435" y="400" width="98" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-8" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.tank_car,_tank_wagon;" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="590" y="400" width="127" height="80" as="geometry" />
+          <mxGeometry x="591" y="395" width="127" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gm5vKIdBbdJ2trnB38Ta-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/80-s-stuffs-outline/87/Asset_6-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="171" y="347" width="128" height="128" as="geometry" />
+        <mxCell id="BYuxF0DgtdfYFC6mu6nL-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/car-parts-18/64/car-seatbelt-safety-belt-parts-vehicle-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
+          <mxGeometry x="760" y="90" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BYuxF0DgtdfYFC6mu6nL-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/car-parts-18/64/car-light-bulb-spare-parts-halogen-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
+          <mxGeometry x="722" y="220" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="BYuxF0DgtdfYFC6mu6nL-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/car_battery-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
+          <mxGeometry x="252" y="360" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="BYuxF0DgtdfYFC6mu6nL-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronics-17/24/electronics-13-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
+          <mxGeometry x="730" y="375" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="BYuxF0DgtdfYFC6mu6nL-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-13-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
+          <mxGeometry x="120" y="370" width="108" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="MLhomDlK_7JrrQLauOHF" name="09 - Dependency Injection">
+  <diagram id="KNTfMjYM_y1pQPZj4jGS" name="09 - IoC">
+    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="5Qr3IymcCCHBCM2mmeHn-0" />
+        <mxCell id="5Qr3IymcCCHBCM2mmeHn-1" parent="5Qr3IymcCCHBCM2mmeHn-0" />
+        <mxCell id="5Qr3IymcCCHBCM2mmeHn-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/electronic-devices-vol-1-1/36/freezer_fridge_refrigerator_cold_kitchen_electrical_appliance_appliances_3-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="75" y="50" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qr3IymcCCHBCM2mmeHn-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/child-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="410" y="50" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qr3IymcCCHBCM2mmeHn-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/family-member-flat-happy-family-day/512/Mother-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="538" y="230" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="9-MLNKCj228Or7TpBXT1-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/hand-drawn-house-appliances/200/blender-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="378" y="214" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9-MLNKCj228Or7TpBXT1-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fast-food-solid-tasty-happy-meal/512/Milkshake-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="538" y="60" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="9-MLNKCj228Or7TpBXT1-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="170" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9-MLNKCj228Or7TpBXT1-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fitness-24/512/6-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="250" y="220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9-MLNKCj228Or7TpBXT1-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-black-buttons/512/ice-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="179.5" y="108.5" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="9-MLNKCj228Or7TpBXT1-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-01-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="170" y="220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9-MLNKCj228Or7TpBXT1-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/icontober/64/Inkcontober_Juicy-128.png" vertex="1" parent="5Qr3IymcCCHBCM2mmeHn-1">
+          <mxGeometry x="170" y="170" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MLhomDlK_7JrrQLauOHF" name="10 - Dependency Injection">
     <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ezqxgaXDuaTMsuaXJN9x-0" />
         <mxCell id="ezqxgaXDuaTMsuaXJN9x-1" parent="ezqxgaXDuaTMsuaXJN9x-0" />
-        <mxCell id="u_EZ_WS-s7YLprBsiAdB-0" value="What is Dependency?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
+        <mxCell id="u_EZ_WS-s7YLprBsiAdB-0" value="Dependency" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
           <mxGeometry x="190" y="70" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u_EZ_WS-s7YLprBsiAdB-1" value="Too" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
-          <mxGeometry x="190" y="170" width="320" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="u_EZ_WS-s7YLprBsiAdB-2" value="What is Unity Container?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
-          <mxGeometry x="190" y="270" width="270" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="u_EZ_WS-s7YLprBsiAdB-3" value="Pure DI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
-          <mxGeometry x="510" y="170" width="250" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u_EZ_WS-s7YLprBsiAdB-4" value="Tool Based DI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
-          <mxGeometry x="510" y="210" width="250" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OTqqZzAU2VN6Ek2hRDgr-0" value="A dependency is an object (primitive type or derived type) that are required for creation of other objects." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
+        <mxCell id="OTqqZzAU2VN6Ek2hRDgr-0" value="A dependency is an object (primitive type or derived type) that is/are required for creation of other objects." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
           <mxGeometry x="350" y="70" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HSAq-FKdR0hWzB_X1jQD-0" value="IoC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
+          <mxGeometry x="190" y="170" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HSAq-FKdR0hWzB_X1jQD-1" value="Inversion of Control - Give away the responsibility of creating objects and their dependencies to other classes/frameworks." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
+          <mxGeometry x="350" y="170" width="410" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q6XRp98BDgzbwGVr6QHL" name="11 - Unity Container">
+    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="NP_hPXncr0VdyFzAS7Nh-0" />
+        <mxCell id="NP_hPXncr0VdyFzAS7Nh-1" parent="NP_hPXncr0VdyFzAS7Nh-0" />
+        <mxCell id="vWcgmK47z9hcX2QDF0bT-0" value="Register Types" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="395" y="90" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vWcgmK47z9hcX2QDF0bT-1" value="Resolve Types" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="395" y="140" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vWcgmK47z9hcX2QDF0bT-2" value="Create Object" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="395" y="190" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vWcgmK47z9hcX2QDF0bT-3" value="Dispose Object" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="395" y="290" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vWcgmK47z9hcX2QDF0bT-4" value="Interception" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="395" y="340" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vWcgmK47z9hcX2QDF0bT-5" value="Create Complex Object" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="395" y="240" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PugmVNKGeFQ7RSEeGkPG-0" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=17;strokeWidth=2;size=0.3;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="330" y="190" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PugmVNKGeFQ7RSEeGkPG-1" value="Lifetime Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="150" y="260" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PugmVNKGeFQ7RSEeGkPG-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=17;strokeWidth=2;size=0.3;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="330" y="90" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PugmVNKGeFQ7RSEeGkPG-6" value="Mappings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="170" y="125" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PugmVNKGeFQ7RSEeGkPG-7" value="Aspect Oriented Programming" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="140" y="350" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
