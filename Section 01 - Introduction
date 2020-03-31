@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T07:58:17.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="5loor17o9SZijdbhnGD9" version="12.9.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-03-31T08:49:28.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="vMbcqgd4f94A3cXurfFF" version="12.9.3" type="github" pages="12">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
     <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -245,45 +245,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W_ClTW0sW11XiVKXL_dd" name="08 - Car">
-    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-0" />
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-1" parent="Gm5vKIdBbdJ2trnB38Ta-0" />
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/solid-locations-icon-set/64/Tyres_2-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="420" y="80" width="128" height="128" as="geometry" />
+          <mxGeometry x="380" y="70" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/car-parts-18/64/car-seat-safety-child-baby-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="589" y="80" width="128" height="128" as="geometry" />
+          <mxGeometry x="549" y="70" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/iconic-1/32/steering_wheel-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="420" y="240" width="128" height="128" as="geometry" />
+          <mxGeometry x="380" y="230" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/engine-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="590" y="240" width="128" height="128" as="geometry" />
+          <mxGeometry x="550" y="230" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Gm5vKIdBbdJ2trnB38Ta-7" value="" style="shape=mxgraph.signs.transportation.car_lock;html=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="250" y="403" width="98" height="75" as="geometry" />
+          <mxGeometry x="210" y="400.5" width="130" height="107" as="geometry" />
         </mxCell>
         <mxCell id="BYuxF0DgtdfYFC6mu6nL-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/car-parts-18/64/car-seatbelt-safety-belt-parts-vehicle-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="760" y="90" width="70" height="70" as="geometry" />
+          <mxGeometry x="720" y="80" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BYuxF0DgtdfYFC6mu6nL-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/car-parts-18/64/car-light-bulb-spare-parts-halogen-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="731" y="240" width="128" height="128" as="geometry" />
+          <mxGeometry x="691" y="230" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="BYuxF0DgtdfYFC6mu6nL-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/car_battery-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="590" y="375" width="128" height="128" as="geometry" />
+          <mxGeometry x="550" y="390" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="BYuxF0DgtdfYFC6mu6nL-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronics-17/24/electronics-13-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="746" y="390" width="98" height="98" as="geometry" />
+          <mxGeometry x="706" y="405" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="BYuxF0DgtdfYFC6mu6nL-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-13-128.png" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="110" y="380" width="108" height="108" as="geometry" />
+          <mxGeometry x="60" y="395" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="_Cpt0uecFNzT-4w0FkZO-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/car-silhouettes/1000/city-car-128.png;strokeWidth=3;" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="100" y="90" width="280" height="280" as="geometry" />
+          <mxGeometry x="60" y="80" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dxV3tGitu1GtrgF5daOm-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/vehicles-7/24/vehicles-27-128.png;strokeWidth=3;" vertex="1" parent="Gm5vKIdBbdJ2trnB38Ta-1">
-          <mxGeometry x="440" y="390" width="108" height="108" as="geometry" />
+          <mxGeometry x="400" y="405" width="108" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -347,42 +347,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q6XRp98BDgzbwGVr6QHL" name="11 - Unity Container">
-    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NP_hPXncr0VdyFzAS7Nh-0" />
         <mxCell id="NP_hPXncr0VdyFzAS7Nh-1" parent="NP_hPXncr0VdyFzAS7Nh-0" />
         <mxCell id="vWcgmK47z9hcX2QDF0bT-0" value="Register Types" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="395" y="90" width="265" height="40" as="geometry" />
+          <mxGeometry x="411.77884615384613" y="110" width="303.2211538461538" height="46.89655172413793" as="geometry" />
         </mxCell>
         <mxCell id="vWcgmK47z9hcX2QDF0bT-1" value="Resolve Types" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="395" y="140" width="265" height="40" as="geometry" />
+          <mxGeometry x="411.77884615384613" y="168.6206896551724" width="303.2211538461538" height="46.89655172413793" as="geometry" />
         </mxCell>
-        <mxCell id="vWcgmK47z9hcX2QDF0bT-2" value="Create Object" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="395" y="190" width="265" height="40" as="geometry" />
+        <mxCell id="vWcgmK47z9hcX2QDF0bT-2" value="Lifetime Management" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="411.77884615384613" y="227.24137931034483" width="303.2211538461538" height="46.89655172413793" as="geometry" />
         </mxCell>
-        <mxCell id="vWcgmK47z9hcX2QDF0bT-3" value="Dispose Object" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="395" y="290" width="265" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vWcgmK47z9hcX2QDF0bT-4" value="Interception" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="395" y="340" width="265" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vWcgmK47z9hcX2QDF0bT-5" value="Create Complex Object" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="395" y="240" width="265" height="40" as="geometry" />
+        <mxCell id="vWcgmK47z9hcX2QDF0bT-5" value="Singleton" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="411.77884615384613" y="285.8620689655172" width="303.2211538461538" height="46.89655172413793" as="geometry" />
         </mxCell>
         <mxCell id="PugmVNKGeFQ7RSEeGkPG-0" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=17;strokeWidth=2;size=0.3;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="330" y="190" width="40" height="140" as="geometry" />
+          <mxGeometry x="337.4" y="120" width="45.77" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="PugmVNKGeFQ7RSEeGkPG-1" value="Lifetime Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="150" y="260" width="180" height="20" as="geometry" />
+        <mxCell id="PugmVNKGeFQ7RSEeGkPG-6" value="Unity Container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontStyle=2" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="77.21" y="278.28" width="260.19" height="23.45" as="geometry" />
         </mxCell>
-        <mxCell id="PugmVNKGeFQ7RSEeGkPG-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=17;strokeWidth=2;size=0.3;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="330" y="90" width="40" height="90" as="geometry" />
+        <mxCell id="qSqRNLDYOn1mRM1G9fEm-0" value="Native Types (Array, Enumerables)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="411.77884615384613" y="350.0020689655172" width="303.2211538461538" height="46.89655172413793" as="geometry" />
         </mxCell>
-        <mxCell id="PugmVNKGeFQ7RSEeGkPG-6" value="Mappings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="170" y="125" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PugmVNKGeFQ7RSEeGkPG-7" value="Aspect Oriented Programming" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="140" y="350" width="240" height="20" as="geometry" />
+        <mxCell id="qSqRNLDYOn1mRM1G9fEm-1" value="Interception" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+          <mxGeometry x="411.77884615384613" y="410.0020689655172" width="303.2211538461538" height="46.89655172413793" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
