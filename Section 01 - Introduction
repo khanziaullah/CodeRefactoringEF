@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T08:49:28.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="vMbcqgd4f94A3cXurfFF" version="12.9.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-03-31T08:59:03.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Yf4sMtPLZxTZWTqkhlbm" version="12.9.3" type="github" pages="12">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
     <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -225,7 +225,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Er1G68ZcWLro6c4Zu2Nb" name="08 - Dependency">
-    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rLDfpf4LWM-d3RQCcI-k-0" />
         <mxCell id="rLDfpf4LWM-d3RQCcI-k-1" parent="rLDfpf4LWM-d3RQCcI-k-0" />
@@ -238,8 +238,8 @@
         <mxCell id="rLDfpf4LWM-d3RQCcI-k-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=17;strokeWidth=2;size=0.3;" vertex="1" parent="rLDfpf4LWM-d3RQCcI-k-1">
           <mxGeometry x="320" y="170" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="rLDfpf4LWM-d3RQCcI-k-5" value="What this course is about?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="rLDfpf4LWM-d3RQCcI-k-1">
-          <mxGeometry x="180" y="240" width="140" height="20" as="geometry" />
+        <mxCell id="rLDfpf4LWM-d3RQCcI-k-5" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Object Creation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="rLDfpf4LWM-d3RQCcI-k-1">
+          <mxGeometry x="140" y="240" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -364,12 +364,12 @@
           <mxGeometry x="411.77884615384613" y="285.8620689655172" width="303.2211538461538" height="46.89655172413793" as="geometry" />
         </mxCell>
         <mxCell id="PugmVNKGeFQ7RSEeGkPG-0" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=17;strokeWidth=2;size=0.3;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="337.4" y="120" width="45.77" height="340" as="geometry" />
+          <mxGeometry x="337.4" y="120" width="45.77" height="330" as="geometry" />
         </mxCell>
         <mxCell id="PugmVNKGeFQ7RSEeGkPG-6" value="Unity Container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontStyle=2" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
-          <mxGeometry x="77.21" y="278.28" width="260.19" height="23.45" as="geometry" />
+          <mxGeometry x="77.21000000000001" y="274.14" width="260.19" height="23.45" as="geometry" />
         </mxCell>
-        <mxCell id="qSqRNLDYOn1mRM1G9fEm-0" value="Native Types (Array, Enumerables)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
+        <mxCell id="qSqRNLDYOn1mRM1G9fEm-0" value="Resolve Array, Enumerable" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
           <mxGeometry x="411.77884615384613" y="350.0020689655172" width="303.2211538461538" height="46.89655172413793" as="geometry" />
         </mxCell>
         <mxCell id="qSqRNLDYOn1mRM1G9fEm-1" value="Interception" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="NP_hPXncr0VdyFzAS7Nh-1">
