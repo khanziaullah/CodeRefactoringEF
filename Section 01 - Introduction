@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T07:45:11.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="PpJPo-EZeSIIxl_bB8Hv" version="12.9.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-03-31T07:45:33.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="82utix2wbcWJpuMVQTa5" version="12.9.3" type="github" pages="11">
   <diagram id="TnEYCNMU13n9bYBySpxF" name="01 - Refactoring">
     <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -307,21 +307,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MLhomDlK_7JrrQLauOHF" name="10 - Dependency Injection">
-    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ezqxgaXDuaTMsuaXJN9x-0" />
         <mxCell id="ezqxgaXDuaTMsuaXJN9x-1" parent="ezqxgaXDuaTMsuaXJN9x-0" />
         <mxCell id="u_EZ_WS-s7YLprBsiAdB-0" value="Dependency" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
-          <mxGeometry x="190" y="70" width="130" height="80" as="geometry" />
+          <mxGeometry x="150" y="80" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OTqqZzAU2VN6Ek2hRDgr-0" value="A dependency is an object (primitive type or derived type) that is/are required for creation of other objects." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
-          <mxGeometry x="350" y="70" width="410" height="80" as="geometry" />
+          <mxGeometry x="310" y="80" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HSAq-FKdR0hWzB_X1jQD-0" value="IoC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
-          <mxGeometry x="190" y="170" width="130" height="80" as="geometry" />
+          <mxGeometry x="150" y="180" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HSAq-FKdR0hWzB_X1jQD-1" value="Inversion of Control - Give away the responsibility of creating objects and their dependencies to other classes/frameworks." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ezqxgaXDuaTMsuaXJN9x-1">
-          <mxGeometry x="350" y="170" width="410" height="80" as="geometry" />
+          <mxGeometry x="310" y="180" width="410" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
