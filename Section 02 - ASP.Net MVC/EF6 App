@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T12:37:22.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="gxgPFzrvp7KOOLoc8Foa" version="12.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-01T12:45:37.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="0wg6yGtfhOHqnLUxsNF6" version="12.9.6" type="github" pages="2">
   <diagram id="uNfmHFzhIONIz2VgyPEa" name="01 - Myths">
-    <mxGraphModel dx="1038" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1250" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S5OQtK7Gap0PxqqkmVqi-1" value="Clean Code is possible in green field projects" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="S5OQtK7Gap0PxqqkmVqi-1" value="Clean Code is possible in green field projects" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S5OQtK7Gap0PxqqkmVqi-2" value="Legacy Apps Needs to be re-developed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="S5OQtK7Gap0PxqqkmVqi-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="S5OQtK7Gap0PxqqkmVqi-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="S5OQtK7Gap0PxqqkmVqi-5" value="Developer Myths" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="70" y="225" width="170" height="30" as="geometry" />
+        <mxCell id="S5OQtK7Gap0PxqqkmVqi-5" value="Developer Myths" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YluJ40v7KMDmaRvWaq-0-1" value="Legacy Apps Needs to be re-developed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="450" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="eU6nrsOwuXYEEEWJNkog" name="02 - Getting Started">
-    <mxGraphModel dx="1038" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1250" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TV8st8HQfTVHBFrAekIB-0" />
         <mxCell id="TV8st8HQfTVHBFrAekIB-1" parent="TV8st8HQfTVHBFrAekIB-0" />
