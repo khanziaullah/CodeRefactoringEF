@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T16:49:39.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="LM-yijsnFS19r-Wvvg6g" version="12.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-01T16:59:18.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="RQq6pmchg11L0t0LQQjt" version="12.9.6" type="github" pages="2">
   <diagram id="uNfmHFzhIONIz2VgyPEa" name="01 - Myths">
-    <mxGraphModel dx="1042" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eU6nrsOwuXYEEEWJNkog" name="02 - Getting Started">
-    <mxGraphModel dx="1250" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TV8st8HQfTVHBFrAekIB-0" />
         <mxCell id="TV8st8HQfTVHBFrAekIB-1" parent="TV8st8HQfTVHBFrAekIB-0" />
@@ -39,7 +39,7 @@
         <mxCell id="c5WtYsIhsMqf0o7O14eS-15" value="Fix any broken pieces" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="TV8st8HQfTVHBFrAekIB-1">
           <mxGeometry x="265" y="370" width="265" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c5WtYsIhsMqf0o7O14eS-16" value="SOLID Violation and Code Smells" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;" vertex="1" parent="TV8st8HQfTVHBFrAekIB-1">
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-16" value="SOLID Principles Violation and Code Smells" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;" vertex="1" parent="TV8st8HQfTVHBFrAekIB-1">
           <mxGeometry x="600" y="120" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="c5WtYsIhsMqf0o7O14eS-17" value="Database" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="TV8st8HQfTVHBFrAekIB-1">
