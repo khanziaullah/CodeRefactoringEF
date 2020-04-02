@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" modified="2020-04-02T16:08:30.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="KvbOgRbgpAsRFWpl8Gcm" version="12.9.6" type="github" pages="2">
+  <diagram id="uNfmHFzhIONIz2VgyPEa" name="01 - Myths">
+    <mxGraphModel dx="994" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S5OQtK7Gap0PxqqkmVqi-1" value="Clean Code is only possible in green field projects." style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="180" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S5OQtK7Gap0PxqqkmVqi-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="235" y="180" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="S5OQtK7Gap0PxqqkmVqi-5" value="Developer Myths" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=21;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="55" y="230" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YluJ40v7KMDmaRvWaq-0-1" value="Legacy Apps Cannot be fixed. &lt;br&gt;They need to be re-developed." style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="250" width="440" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eU6nrsOwuXYEEEWJNkog" name="02 - Getting Started">
+    <mxGraphModel dx="994" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="TV8st8HQfTVHBFrAekIB-0" />
+        <mxCell id="TV8st8HQfTVHBFrAekIB-1" parent="TV8st8HQfTVHBFrAekIB-0" />
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-10" value="Download Code" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+          <mxGeometry x="265" y="120" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-11" value="Build the solution" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+          <mxGeometry x="265" y="170" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-12" value="Designing software" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+          <mxGeometry x="265" y="220" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-13" value="Upgrade .NET/package" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+          <mxGeometry x="265" y="320" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-15" value="Fix any broken pieces" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+          <mxGeometry x="265" y="370" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-16" value="SOLID Principles Violation and Code Smells" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+          <mxGeometry x="610" y="175" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-17" value="Database" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+          <mxGeometry x="265" y="270" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-18" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="sourcePoint" />
+            <mxPoint x="240" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-19" value="Software Development Life-Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=2;fontSize=19;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+          <mxGeometry x="60" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JkATRJwV0A2Z7sIr-R9_-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TV8st8HQfTVHBFrAekIB-1" source="c5WtYsIhsMqf0o7O14eS-20" target="c5WtYsIhsMqf0o7O14eS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-20" value="Application Walk-through" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+          <mxGeometry x="265" y="220" width="265" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
