@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-02T16:08:40.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="gulwPrQZclV9_hNS0vyq" version="12.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-03T03:48:12.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="xBDYmLtchAY6xVX-xKHS" version="12.9.6" type="github" pages="2">
   <diagram id="uNfmHFzhIONIz2VgyPEa" name="01 - Myths">
     <mxGraphModel dx="994" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eU6nrsOwuXYEEEWJNkog" name="02 - Getting Started">
-    <mxGraphModel dx="994" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="994" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TV8st8HQfTVHBFrAekIB-0" />
         <mxCell id="TV8st8HQfTVHBFrAekIB-1" parent="TV8st8HQfTVHBFrAekIB-0" />
@@ -54,7 +54,7 @@
         <mxCell id="c5WtYsIhsMqf0o7O14eS-19" value="Software Development Life-Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=2;fontSize=19;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
           <mxGeometry x="60" y="130" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c5WtYsIhsMqf0o7O14eS-20" value="Application Walk-through" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
+        <mxCell id="c5WtYsIhsMqf0o7O14eS-20" value="Application Code Walk-through" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="TV8st8HQfTVHBFrAekIB-1" vertex="1">
           <mxGeometry x="265" y="220" width="265" height="40" as="geometry" />
         </mxCell>
       </root>
